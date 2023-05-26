@@ -41,8 +41,8 @@ Step 4 : Test for the XOR patterns.
 
 **PROGRAM** 
 ~~~
-Developed By : KERSOAN P
-Reg no: 212221230050
+Developed By : A JOANS JAY AUTHERS
+Reg no: 212221240019
 
 import numpy as np
 import pandas as pd
